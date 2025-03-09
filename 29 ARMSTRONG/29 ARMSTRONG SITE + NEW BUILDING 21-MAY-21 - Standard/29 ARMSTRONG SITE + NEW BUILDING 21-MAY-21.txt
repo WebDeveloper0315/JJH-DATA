@@ -1,0 +1,71 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Friday, May 21, 2021, 10:40 AM.
+
+Drawing:
+This is a transmittal based on 29 ARMSTRONG SITE + NEW BUILDING 21-MAY-21.dwg.
+
+Files:
+
+Root Drawing:
+	29 ARMSTRONG SITE + NEW BUILDING 21-MAY-21.dwg
+
+AutoCAD Drawing (External) References:
+	2021-017-29 Armstrong Survey.dwg
+
+PNG File References:
+	HBC logo.png
+	Westport common files\truck turning diagram.png
+	Westport common files\WESTPORT logo 1 TRANSP.png
+
+JPG File References:
+	MAP cover sheet.JPG
+	MAP TITLE BLOCK.JPG
+	RENDER 1.jpg
+
+AutoCAD Color-dependent Plot Style Table File References:
+	PlotCfgs\monochrome.ctb
+
+AutoCAD Plotter Configuration File References:
+	PlotCfgs\AutoCAD PDF (High Quality Print).pc3
+
+The following files were excluded from the transmittal:
+	acad.fmp
+	Fonts\simplex.shx
+	Fonts\arial.ttf
+	Fonts\verdana.ttf
+	Fonts\GOTHICBI.TTF
+	Fonts\GOTHIC.TTF
+	Fonts\ltypeshp.shx
+	Fonts\GOTHICI.TTF
+	Fonts\GOTHICB.TTF
+	Fonts\romans.shx
+	Fonts\ARIALN.TTF
+	Fonts\romand.shx
+	Fonts\TXT.shx
+	Fonts\verdanab.ttf
+	Fonts\BOLD.SHX
+
+The following files could not be located:
+	MSURVEY.(shx,ttf)
+	MSDASHED.(shx,ttf)
+
+
+Notes for distribution:
+
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+eTransmit does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
+Raster image files:
+Paths may be present on references to raster images.  Make sure these paths work or that the root drawing is using the correct references.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\mgcar\AppData\Roaming\Autodesk\AutoCAD 2021\R24.0\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+
